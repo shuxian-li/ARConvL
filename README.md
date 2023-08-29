@@ -1,4 +1,3 @@
-*********************************************************************************************
 # ARConvL: Adaptive Region-Based Convolutional Learning for Multi-class Imbalance Classification
 
 This repository contains the source codes together with the supplemental material to replicate the following paper:
